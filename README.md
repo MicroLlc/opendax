@@ -1,5 +1,5 @@
 DevSecOps Stats:</br> 
-[![CodeQL](https://github.com/MicroLlc/opendax/actions/workflows/codeql-analysis.yml/badge.svg?branch=2-6-stable)](https://github.com/MicroLlc/opendax/actions/workflows/codeql-analysis.yml)
+[![CodeQL](https://github.com/MicroLlc/opendax/actions/workflows/codeql-analysis.yml/badge.svg?branch=2-6-stable)](https://github.com/MicroLlc/opendax/actions/workflows/codeql-analysis.yml) [![Fortify on Demand Scan](https://github.com/MicroLlc/opendax/actions/workflows/fortify.yml/badge.svg?branch=2-6-stable)](https://github.com/MicroLlc/opendax/actions/workflows/fortify.yml)
 
 ![Cryptocurrency Exchange Platform - OpenDAX](https://github.com/openware/meta/raw/main/images/github_opendax.png)
 
