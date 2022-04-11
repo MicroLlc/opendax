@@ -1,3 +1,6 @@
+DevSecOps Stats:</br> 
+[![CodeQL](https://github.com/MicroLlc/opendax/actions/workflows/codeql-analysis.yml/badge.svg?branch=2-6-stable)](https://github.com/MicroLlc/opendax/actions/workflows/codeql-analysis.yml)
+
 ![Cryptocurrency Exchange Platform - OpenDAX](https://github.com/openware/meta/raw/main/images/github_opendax.png)
 
 <h3 align="center">
